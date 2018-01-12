@@ -1,0 +1,54 @@
+body{
+	background-color: black;
+}
+
+nav{
+	margin-top: 1%;
+}
+
+nav a img{
+	margin-left: 140%;
+}
+
+header{
+	margin-top: 1%;
+	margin-left: 0;
+	margin-right: 0;
+
+}
+
+div a img{
+	margin-left: 500%;
+	margin-top: 2%;
+}
+
+.container{
+	background-color: white;
+}
+
+.row{
+	background-color: white;
+}
+
+
+.video{
+	padding-bottom: 0,5%;
+}
+
+.footer{
+	padding-bottom: 20%;
+	height: 0;
+	background-color: white;
+	margin-top: 1%;
+}
+
+.master{
+	width: 200px;
+	margin-left: 30%;
+	margin-top: 18%;
+}
+
+.hack{
+	width: 300px;
+	margin-left: 0;
+}
